@@ -1,0 +1,16 @@
+.day {
+
+    background-image: url("https://wallpapercave.com/wp/oWfnrb6.jpg");
+    height: 945px;
+    background-size: cover;
+    background-repeat: no-repeat
+    
+}
+.night {
+
+    background-image: url("https://i.pinimg.com/originals/8d/80/01/8d80019542dde3be08d0b46c04892524.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-image: 100%;
+}
+
